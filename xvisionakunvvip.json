@@ -2,23 +2,11 @@
     {
         "device_id": "2ab057c437533eea",
         "key": "xvision666",
-        "expirydate": "31-12-2030",
+        "expirydate": "31-9-2035",
         "Allowoffline": false
     },
     {
         "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
-    {
-        "device_id": "device1283",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device486",
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
