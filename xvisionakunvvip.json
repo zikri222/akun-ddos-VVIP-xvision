@@ -22,5 +22,11 @@
         "key": "dinn",
         "expirydate": "18-06-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1b1be5825bf1f1fd",
+        "key": "jmk48",
+        "expirydate": "18-06-2030",
+        "Allowoffline": false
     }
 ]
