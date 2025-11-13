@@ -40,5 +40,11 @@
         "key": "xvision888",
         "expirydate": "18-06-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "27b20c58113c19a9",
+        "key": "xvisionofficial",
+        "expirydate": "18-06-2039",
+        "Allowoffline": false
     }
 ]
