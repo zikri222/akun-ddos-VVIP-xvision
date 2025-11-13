@@ -46,5 +46,11 @@
         "key": "xvisionofficial",
         "expirydate": "18-06-2039",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a4d27d0f5d7ae086",
+        "key": "black666",
+        "expirydate": "18-06-2039",
+        "Allowoffline": false
     }
 ]
