@@ -34,5 +34,11 @@
         "key": "xyntrix666",
         "expirydate": "18-06-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "362e1ca0bd834a70",
+        "key": "xvision888",
+        "expirydate": "18-06-2030",
+        "Allowoffline": false
     }
 ]
